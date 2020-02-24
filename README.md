@@ -1,0 +1,2 @@
+# shinycoin
+Real money
